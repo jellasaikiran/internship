@@ -10,7 +10,7 @@ public class Assignment1 {
             System.out.println("Enter Regular Expression: ");
             String regularExp = sc.nextLine();
             Assignment1 assignment = new Assignment1();
-            assignment.fileSearch("/home/Desktop/intenship/java/src/Assignment1", regularExp);
+            assignment.fileSearch("/home", regularExp);
         }
 
 
