@@ -11,7 +11,7 @@ public class Assignment10 {
         slist.insert(37);
         System.out.println(list);
         slist=list.iterator();
-        slist.remove(11);
+        slist.remove(31);
         System.out.println(list);
     }
 }
