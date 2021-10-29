@@ -22,7 +22,7 @@ public class VampireNumber {
                 if(i%factor1==0){
                     Long factor2 = i/factor1;
                     if(checkFactorCombination(factor1, factor2, i)){
-                        System.out.println(count+". "+i+" ("+factor1+","+factor2+")");
+                        System.out.println(count+". "+i+" ( "+factor1+" , "+factor2+" )");
                         count++;
                         break;
                     }
