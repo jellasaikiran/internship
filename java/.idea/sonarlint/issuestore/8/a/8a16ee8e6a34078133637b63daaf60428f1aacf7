@@ -1,0 +1,41 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(øšØÄ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆÏí¡ûÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(Îí´
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ìÕ¦¤ûÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(®ëüìùÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(úÃ£÷ùÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(­¡Û
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ƒŞõ»ûÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ßŠËô
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(¤ÒÅÓ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(®í£ñ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(¯ÅÍÙüÿÿÿÿ
+M	java:S106/"9Replace this use of System.out or System.err by a logger.(ò‰
+
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(•´Ïé
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(ÚĞ¡í
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ì÷œùÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(ó¥í©
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ì‡Õı
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(‘—šúÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(­„Øéşÿÿÿÿ
+o
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(é¸ğŞ
+l
+java:S1192"QDefine a constant instead of duplicating this literal "Computer Science" 7 times.(‘ûíúÿÿÿÿ
+b
+java:S1192"GDefine a constant instead of duplicating this literal "Female" 6 times.(‘ûíúÿÿÿÿ
+a
+java:S1192"KDefine a constant instead of duplicating this literal "Electronic" 5 times.(Ôñà
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÏí¡ûÿÿÿÿ
+W
+java:S4973$"<Strings and Boxed types should be compared using "equals()".(úÃ£÷ùÿÿÿÿ
+W
+java:S4973$"<Strings and Boxed types should be compared using "equals()".(úÃ£÷ùÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èãº
+f
+java:S36556"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ì‡Õı
+k
+java:S3655-"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¯ÅÍÙüÿÿÿÿ

@@ -1,0 +1,8 @@
+
+C
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·¬›Ó
+b
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ã¡Âà
+b
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ñòÏÞ

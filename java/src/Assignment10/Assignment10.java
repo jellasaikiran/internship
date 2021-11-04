@@ -3,7 +3,8 @@ package Assignment10;
 public class Assignment10 {
     public static void main(String[] args) {
         SList<Integer> list=new SList<Integer>();
-        SListIterator<Integer> slist=list.iterator();
+        SListIterator<Integer> slist= list.iterator();
+
         System.out.println(list);
         slist.insert(11);
         slist.insert(25);

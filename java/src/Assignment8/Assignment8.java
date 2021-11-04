@@ -29,7 +29,7 @@ public class Assignment8 {
     }
     public static void main(String args[]){
         try{
-            checkMethod('C');
+            checkMethod('A');
         }
         catch(Exception e){
             System.out.println(e);

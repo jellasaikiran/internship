@@ -10,11 +10,8 @@ public class Assignment1 {
             System.out.println("Enter Regular Expression: ");
             String regularExp = sc.nextLine();
             Assignment1 assignment = new Assignment1();
-            assignment.fileSearch("/home/", regularExp);
+            assignment.fileSearch("/home/saikje", regularExp);
         }
-
-
-
     }
     public void fileSearch(String filePath,String regularExpression) throws  NullPointerException{
         File directory=new File(filePath);
@@ -22,12 +19,11 @@ public class Assignment1 {
 
         if(files!= null){
             for(File f:files){
-
                 if(f.isDirectory()){
                     fileSearch(f.getAbsolutePath(),regularExpression);
                 }
 
-                else if(f.getName().matches(regularExpression)){
+                if(f.getName().matches(regularExpression)){
                     System.out.println(f.getAbsolutePath());
                 }
             }

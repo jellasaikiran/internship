@@ -1,0 +1,20 @@
+
+T
+java:S1854">Remove this useless assignment to local variable "overloaded".(€ğŠ
+E
+java:S1481"/Remove this unused "overloaded" local variable.(€ğŠ
+D
+java:S1905")Remove this unnecessary cast to "double".(ÂéÚ“üÿÿÿÿ
+D
+java:S1905")Remove this unnecessary cast to "double".(•·úµùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»ÉÅ“
+@
+java:S1197'"*Move the array designators [] to the type.(“®€Ã
+?
+java:S1197("*Move the array designators [] to the type.(ƒ¥S
+m	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¡ÊøÔ
+[
+java:S2184"@Cast one of the operands of this integer division to a "double".(ÂéÚ“üÿÿÿÿ
+[
+java:S2184"@Cast one of the operands of this integer division to a "double".(•·úµùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş¿µÂùÿÿÿÿ

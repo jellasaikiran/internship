@@ -1,0 +1,13 @@
+
+P	java:S125"<This block of commented-out lines of code should be removed.(’ÿÁy
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ûØ
+Q	java:S125"<This block of commented-out lines of code should be removed.(”÷±Æ
+T
+java:S1854">Remove this useless assignment to local variable "startRange".(ğ­£“
+E
+java:S1481"/Remove this unused "startRange" local variable.(ğ­£“
+E
+java:S1874"/Remove this use of "getYear"; it is deprecated.(òéÎ¿
+E
+java:S1874"/Remove this use of "getYear"; it is deprecated.(òéÎ¿
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÎÆ¡ùÿÿÿÿ
